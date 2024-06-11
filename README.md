@@ -86,15 +86,15 @@ This is an opensource dataset which can be found on
 
 ### See Analysis Images:
 
-Plotting:
+### Plotting:
 ![plo](https://github.com/Azad2181/Power-Plant-Data-Analysis/assets/121395998/a126d1d9-0949-4ad5-8398-de20589c5d9f)
 
 
-Correlation:
+### Correlation:
 ![cor](https://github.com/Azad2181/Power-Plant-Data-Analysis/assets/121395998/51bd0154-3cad-41a4-810b-ba1ab40d0f91)
 
 
-Pairplot:
+### Pairplot:
 ![pip](https://github.com/Azad2181/Power-Plant-Data-Analysis/assets/121395998/7ca70490-a9fe-4761-b2ee-660f72cd5074)
 
 
